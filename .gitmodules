@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:lindeneg/arranger-backend
+[submodule "client"]
+	path = client
+	url = git@github.com:lindeneg/arranger-frontend
