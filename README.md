@@ -20,7 +20,9 @@ Initialize submodule
 
 Install packages
 
-`~/arranger$ yarn install`
+`~/arranger/server$ yarn install`
+
+`~/arranger/client$ yarn install`
 
 Start backend (in dev mode)
 
