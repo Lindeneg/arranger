@@ -32,4 +32,4 @@ Start frontend
 
 ---
 
-<img src="" width="30%"></img> <img src="" width="30%"></img> <img src="" width="30%"></img>
+<img src="https://github.com/Lindeneg/arranger/blob/master/examples/boards.png" width="30%"></img> <img src="https://github.com/Lindeneg/arranger/blob/master/examples/board.png" width="30%"></img> <img src="https://github.com/Lindeneg/arranger/blob/master/examples/card.png" width="30%"></img>
