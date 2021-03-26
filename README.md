@@ -8,7 +8,7 @@ The app works as intended but the code is quite the mess, especially state-manag
 
 ---
 
-Build from source or try it [here](https://arranger.lindeneg.org/).
+Build from source or try it [here](https://arranger-app.lindeneg.org/).
 
 Clone source
 
