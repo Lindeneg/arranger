@@ -31,9 +31,3 @@ Start backend (in dev mode)
 Start frontend
 
 `~/arranger/client$ yarn start`
-
----
-
-![boards](https://github.com/Lindeneg/arranger/blob/master/examples/boards.png)
-![board](https://github.com/Lindeneg/arranger/blob/master/examples/board.png)
-![card](https://github.com/Lindeneg/arranger/blob/master/examples/card.png)
