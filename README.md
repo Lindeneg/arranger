@@ -2,9 +2,7 @@
 
 ---
 
-Arranger allows creation of Boards, Lists, Cards and Checklists. Lists and Cards are draggable while Checklists may become so in the future. Different color-themes can be set for individual Boards and this feature may be implemented for Cards as well.
-
-The app works as intended but the code is quite the mess, especially state-management. In my infinite wisdom, I made some questionable decisions early on. Albeit it works as intended, the code could be much more elegant, so this app will likely receive an overhaul at some point.
+Arranger allows creation of boards, lists, cards and checklists. Lists, cards and checklists are draggable. Different color-themes can be set for individual boards and cards.
 
 ---
 
