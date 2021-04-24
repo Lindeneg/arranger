@@ -6,7 +6,7 @@ Arranger allows creation of boards, lists, cards and checklists. Lists, cards an
 
 ---
 
-Build from source or try it [here](https://arranger-app.lindeneg.org/).
+Build from source or try it [here](https://arranger.lindeneg.org/).
 
 Clone source
 
